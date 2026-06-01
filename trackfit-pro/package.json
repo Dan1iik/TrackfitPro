@@ -1,0 +1,16 @@
+{
+  "name": "trackfit-pro",
+  "version": "1.0.0",
+  "description": "Interaktivní tréninkový deník a kalkulačka výkonu – Fáze 2 (OOP v TypeScriptu)",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "dev": "tsc && node dist/main.js"
+  },
+  "keywords": ["typescript", "oop", "fitness", "skola"],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
